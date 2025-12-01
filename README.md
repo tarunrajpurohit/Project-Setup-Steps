@@ -12,3 +12,6 @@
 10. Setting up logger
 11. Error handler
 12. Automated test
+
+# Next
+1. after product setup , containerization express app for development with docker
