@@ -15,3 +15,5 @@
 
 # Next
 1. after product setup , containerization express app for development with docker
+2. create test for register
+3. db with docker setup
